@@ -15,7 +15,8 @@
 
 
 <h3>Sources:</h3>
-<a href="https://mmwelches.crsd.org/teachers/gradesspecialists/second-grade/mrs-remmey/free-reading-websites" target="_blank"">Website!</a></a>
+<a href="https://mmwelches.crsd.org/teachers/gradesspecialists/second-grade/mrs-remmey/free-reading-websites" target="blank">Website!</a></a>
+<a href="https://www.youtube.com/watch?v=rW2r5uStgG0" target="blank"> Video!</a></a>
 
 [Next](entry02.md)
 
