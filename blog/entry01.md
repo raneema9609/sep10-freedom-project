@@ -33,7 +33,7 @@
 </ul>
 
 <h2>Next Steps:</h2>
-<p>For these reasons, I will continue with the research and create a website of which allows the newer generations a chance of a brighter and more diverse future. This can become possible with the help of other teahcers, programmers,friends, and notice from others for the upcoming years./</p>
+<p>For these reasons, I will continue with the research and create a website of which allows the newer generations a chance of a brighter and more diverse future. This can become possible with the help of other teahcers, programmers,friends, and notice from others for the upcoming years.</p>
 
 
 [Next](entry02.md)
