@@ -18,7 +18,7 @@
 <h4><a href="https://atinternetmodules.org/storage/ocali-ims-sites/ocali-ims-atim/documents/OnlineBookResources.pdf" target="_blank">PDF!</a></a></h4>
 
 <h2>EDP:</h2>
-<p>Currently, Ive been in my engineering proccess. Thus, I have been researching and looking into several websites of which showcase REAL and time-worthy conetent that can make the world a better place for younger generations to be able to have the chance to grow. This means that children should be able to have the right to an education atleast up to highscool. Stating this, I have also been trying to learn how to create a website by using the <a href="https://pickcode.io/"> Pickcode </a>  website after learning about it in class due to its great features that helps coding students the necessities/basics of code; Because of this, I'm hoping to connect with other programmers to create a cause to help others.</p>
+<p>Currently, Ive been in my engineering proccess. Thus, I have been researching and looking into several websites of which showcase REAL and time-worthy content because Im trying to solve the problem of which people arent exposed to the advacnments of technology throughout their school year. Stating this, I have also been trying to learn how to create a website by using the <a href="https://pickcode.io/"> Pickcode </a>  website after learning about it in class due to its great features that helps coding students the necessities/basics of code; Because of this, I'm hoping to connect with other programmers to create a cause to help others.</p>
 
 <h2>Skills:</h2>
 <ul>
