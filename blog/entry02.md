@@ -1,7 +1,8 @@
 # Entry 2
-##### X/X/XX
+##### 11/03/25
 
-Text
+# Context
+Since my last blog entry 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
