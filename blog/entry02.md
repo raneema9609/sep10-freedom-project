@@ -19,7 +19,9 @@
 
 # Skills:
 <h2>Researching</h2>
-<li>This means that </li>
+<li>As stated in Blog 1, the habit of being a good researcher means to be a good "Googl(er); this means to be able to search for the correct resources allowing for --> better research --> and therefore a better website. Not doing so can lead to several mistakes within the website, therefore making it unrelaible. </li>
+<h2>Understanding</h2>
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
