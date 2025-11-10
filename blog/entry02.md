@@ -21,6 +21,10 @@
 <h2>Researching</h2>
 <li>As stated in Blog 1, the habit of being a good researcher means to be a good "Googl(er); this means to be able to search for the correct resources allowing for --> better research --> and therefore a better website. Not doing so can lead to several mistakes within the website, therefore making it unrelaible. </li>
 <h2>Understanding</h2>
+<li>Understanding is also a big deal when it comes to creating a website because of the fact that this is going to be a dentistry based website, understanding the field and tools is an important part. This may include fixing bugs in the code, changing up the contents shown on the website, and the resources given to the students,etc.</li>
+
+# Next Steps:
+<p>The text steps of my website will be to extend my research and knowledge about the latest tools of dentistry and the impacts that technology poses in the field. I also want to look through the production of the tools used and how they help dentists preform better with the help of technological tools, avoiding complications of which might happen without the advancements of the technology in tools. </p>
 
 
 [Previous](entry01.md) | [Next](entry03.md)
