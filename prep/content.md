@@ -1,9 +1,8 @@
 # Content
-Topic: **X**
+Topic: **Dentistry**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* There had been many Technological advancements that had impacted the field of dentistry. Stating this, each invention was able to improve research for more affordable and reliable dental tools, which can be used by all dental professionals for a more efficient workplace. By looking at the timeline and purposes of these inventions, we are able to better understand the way technology is used in today's world to improve the fields of dental and oral health.
 
 ## Part A: existing technology
 # Dental Intelligence
@@ -63,5 +62,15 @@ Topic: **X**
      * Link: https://voxeldental.com/products/uniz-nbee-3d-printer?srsltid=AfmBOore54Ip8OMZUNPf5FnnABb9Ezvtrj6PtNRm6xBYZa6ef51zPJQj
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+ AT HOME DENTAL CHECKER
+<ul>
+ <li>will allow patients to virtually check their oral condition without a present dentist</li>
+
+ <li>confidential</li>
+</ul>
+
+SMART TEETH IMAGE- MAKING TOOL
+<ul>
+<li> a similar tool to what dentists already use, but showcases a virtual full image of teir teeth</li>
+<li>a simpler way to do something like an X-ray</li>
+</ul>
