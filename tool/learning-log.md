@@ -19,7 +19,7 @@
 ### 4/16/26:
 * I started testing out and playing around with my tool and started useing the given starter code and tutorial provided on the [Aframe instalation website.](https://aframe.io/docs/1.7.0/introduction/installation.html#code-editors-in-the-browser)
 * I tinkered with the shapes and played around with `<a-scene>`.
-* I was able to play around with the shapes and was finially able to create an ice-cream cone using a sphere + cone.
+* I was able to play around with the shapes and was finially able to create an ice-cream cone using a sphere + cone. (shown in the tinker file)
 
 
 <!--
