@@ -20,6 +20,8 @@
 * I started testing out and playing around with my tool and started useing the given starter code and tutorial provided on the [Aframe instalation website.](https://aframe.io/docs/1.7.0/introduction/installation.html#code-editors-in-the-browser)
 * I tinkered with the shapes and played around with `<a-scene>`.
 * I was able to play around with the shapes and was finially able to create an ice-cream cone using a sphere + cone (shown in the ice-cream file).
+* While making the ice cream using the shapes, I ran into an issue with teh file since the website wouldnt work when i would use 'http-server' : I later on learned that I forgot to add '.html' at the end of the file name in order for the file to become accessable. (Yuxin and Franco helped me out)
+* After I made my ice cream cone I decided to also add unto the project and change the color of the sourroundings/sky into sky blue.
 
 
 <!--
