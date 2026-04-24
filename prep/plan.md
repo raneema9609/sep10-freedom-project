@@ -8,7 +8,7 @@
 * `#ABC123`
 
 ## Fonts
-* [Text](URL)
+* [Indie Flower Font](https://fonts.google.com/specimen/Indie+Flower?preview.script=Latn)
 
 ## Timeline
 
