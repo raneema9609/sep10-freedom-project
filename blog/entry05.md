@@ -35,14 +35,28 @@ The Code:
 </body>
 
 
-
 </html>
 ```
 
 ## Challenges:
 
-When learning and playing around with my tool, I ran into several issues like 
+When learning and playing around with my tool, I ran into several issues, but the hardest thing that I had to deal with was getting the shapes into their correct postions. Because of this, I had to watch several videos and ask classmates for tips on how to place shapes in different postions, later on allowing me to learn about the x,y, and z rotations. I also had to look back on past lessons, watch YT vid, etc. These rotations in particular allowed me to get the "cone" of the ice cream cone to go under the sphere.
 
+Before :
+<img width="261" height="409" alt="image" src="https://github.com/user-attachments/assets/c7c567c7-93f9-465b-82cb-74fea3e71412" />
+
+After:
+<img width="261" height="409" alt="image" src="https://github.com/user-attachments/assets/a68a9886-a33d-4035-b64a-5953f2d7bebc" />
+
+The only change between the images is the fact that I added a rotation of rotation="180 0 0" unto the cone, in order to have the apropriate postition with the sphere, hence making it look like a ice-cream cone.
+
+## Skills:
+
+During my time tinkering with A-frame, it allowed me to develop several skills such as ;
+
+* Patience, because effort and good work take time.
+* Perseverance, because not everything I try turns out to be correct, reminding me not to give up on my work.
+* Ask for help when needed, because struggling and not knowing the answer is worse than asking an adult or a classmate a quick question, avoiding hours of distress.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
