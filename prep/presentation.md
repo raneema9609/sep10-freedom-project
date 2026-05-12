@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Approximately 64% to 65.5% of American adults (aged 18–64) report visiting a dentist within the past year. That leaves 46% to 44.5% of people that don't have access to a dentist; thats about 100 million Americans per year. 
 
 ## Product
-* 
+* I will show what i made by demonstarting the tools that allow dentists to perform on their patients and their use. This will showcase to the audience the importance of going to the dentist and why their oral hygiene matters.
 
 ## Process
-* 
+* I will hsow how i made my project by providing snippets of my code, mistakes that ive overcome, and feedback from peers.
 
 ## Conclusion
-* 
+* I will sumerrize my project by encouraging the audeince to visit the dentist and appreaciate the tools being used on them, because without them, our lives will not only get harder, but also not the cleanest.
 
 <!-- EXAMPLE
 
